@@ -5,7 +5,7 @@ A Python extension for getting RandomX hashes.
 ## Installation
 
 ```
-pip install git+https://github.com/jtgrassie/pyrx
+pip install git+https://github.com/idlechain/pyrx
 ```
 
 ## Usage
